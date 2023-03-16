@@ -6,6 +6,7 @@
     <string name="main_nextMonth">다음 달</string>
     <string name="nextMonthText">결제 예정 입니다</string>
     <string name="exampleMoney">000,000,000원</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
