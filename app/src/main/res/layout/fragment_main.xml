@@ -86,7 +86,7 @@
             android:id="@+id/main_UsedMoney_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="000,000,000원"
+            android:text="@string/exampleMoney"
             app:layout_constraintTop_toBottomOf="@id/main_RadioGroup_Month"
             app:layout_constraintBottom_toBottomOf="@id/main_UsedMoney_Frame"
             app:layout_constraintLeft_toLeftOf="@id/main_UsedMoney_Frame"
@@ -116,7 +116,6 @@
         android:layout_marginTop="40dp"
         android:background="@drawable/main_frame_background"
         android:elevation="5dp">
-
 
         <TextView
             android:id="@+id/tempText1"
